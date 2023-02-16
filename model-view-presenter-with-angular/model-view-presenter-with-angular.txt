@@ -1,0 +1,54 @@
+dev.to_this-is-angular
+model-view-presenter-with-angular
+Lars Gyrup Brink Nielsen for This is Angular
+https://dev.to/this-is-angular/model-view-presenter-with-angular-533h
+Tour of Heroes Angular app using the Model-View-Presenter pattern
+https://github.com/LayZeeDK/ngx-tour-of-heroes-mvp
+Mar 22, 2021
+
+
+
+https://dev.to/this-is-angular/container-components-with-angular-4o05
+
+To keep track of application state in a reactive way, I created a microlibrary called 
+rxjs-multi-scan
+https://github.com/LayZeeDK/rxjs-multi-scan
+
+
+
+
+https://dev.to/this-is-angular/testing-angular-container-components-33io
+
+https://dev.to/this-is-learning/sorry-c-and-java-developers-this-is-not-how-typescript-works-401
+
+“Testing Observables in Angular” by Netanel Basal
+https://netbasal.com/testing-observables-in-angular-a2dbbfaf5329
+
+“What are schedulers in RxJS” by Kwinten Pisman
+https://blog.strongbrew.io/what-are-schedulers-in-rxjs/
+
+“RxJS: Testing with Fake Time” by Nicholas Jamieson
+https://ncjamieson.com/testing-with-fake-time/
+
+The Unit Testing Minimalist testing strategy by Sandi Metz 
+https://twitter.com/sandimetz
+
+the full heroes container component test suite
+https://github.com/LayZeeDK/ngx-tour-of-heroes-mvp/blob/develop/src/app/heroes/heroes.container.spec.ts
+
+
+
+https://dev.to/this-is-angular/presentational-components-with-angular-3961
+
+
+
+https://dev.to/this-is-angular/presenters-with-angular-2l7l
+
+
+
+https://dev.to/this-is-angular/lean-angular-components-1abl
+
+Routeshub by Max Tarsis is a route management library that integrates easily with the Angular router.
+https://routeshub.gitbook.io/docs/
+
+
